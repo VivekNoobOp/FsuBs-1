@@ -49,6 +49,6 @@ async def fsub(bot, msg: Message):
         if bot_chat_member.status == "administrator":
             to_be_chat_id = (await bot.get_chat(to_be_chat)).id
             await change_force_chat(chat_id, to_be_chat_id)
-            await msg.reply("sᴜᴄᴇssғᴜʟ. Nᴏᴡ ɪ'ʟʟ ᴍᴜᴛᴇ ᴘᴇᴏᴘʟᴇ ᴡʜᴏ ʜᴀᴠᴇɴ'ᴛ ᴊᴏɪɴᴇᴅ ᴛʜᴀᴛ ᴄʜᴀᴛ ʙᴀʙʏ . \n\nᴜsᴇ  /settings ᴛᴏ ᴄʜᴀɴɢᴇ sᴇᴛᴛɪɴɢs.")
+            await msg.reply("sᴜᴄᴇssғᴜʟ. Nᴏᴡ ɪ'ʟʟ ᴍᴜᴛᴇ ᴘᴇᴏᴘʟᴇ ᴡʜᴏ ʜᴀᴠᴇɴ'ᴛ ᴊᴏɪɴᴇᴅ ᴛʜᴀᴛ ᴄʜᴀᴛ ʙᴀʙʏ . \n\nᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ғᴏʀ ᴀɴʏ ʜᴇʟᴘ ɴᴇᴇᴅᴇᴅ : [ɴᴏᴏʙᴄʀᴇᴀᴛᴏʀ](t.me/noobcreator).")
         else:
             await msg.reply("ᴘʟᴇᴀsᴇ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ᴛʜᴇʀᴇ ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ʙᴀʙʏ ᴠɪsɪᴛ sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ [ɴᴏᴏʙ ᴄʀᴇᴀᴛᴏʀ](t.me/noobcreator) !")
