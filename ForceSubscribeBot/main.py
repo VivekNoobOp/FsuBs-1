@@ -40,10 +40,10 @@ async def main(bot: Client, msg: Message):
                     await msg.chat.kick_member(user_id)
                     await msg.reply("ʙᴀɴɴᴇᴅ ᴍᴇᴍʙᴇʀ ʙᴇᴄᴀᴜsᴇ  ɴᴏᴛ  ᴊᴏɪɴᴇᴅ ғᴏʀᴄᴇ sᴜʙsʀɪʙᴇ ᴄʜᴀᴛ")
                     return
-                buttons = [[InlineKeyboardButton("✨ ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴊᴏɪɴ ✨", url=link)]]
+                buttons = [[InlineKeyboardButton("✰✰ ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴊᴏɪɴ ✰✰", url=link)]]
                 if action == 'mute':
                     await msg.chat.restrict_member(user_id, ChatPermissions(can_send_messages=False))
-                    buttons.append([InlineKeyboardButton("ᴜɴᴍᴜᴛᴇ ᴍᴇ", callback_data=f"joined+{msg.from_user.id}")])
+                    buttons.append([InlineKeyboardButton("✰ ᴜɴᴍᴜᴛᴇ ᴍᴇ ✰", callback_data=f"joined+{msg.from_user.id}")])
                 await msg.reply(
                     f"ʜᴇʏ ᴅᴇᴀʀ  {msg.from_user.mention},\n\nʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴛᴏ ᴊᴏɪɴ {mention} ᴛᴏ ᴄʜᴀᴛ ʜᴇʀᴇ ᴛʜᴇɴ ᴘʀᴇss ᴏɴ ᴜɴᴍᴜᴛᴇ ʙᴜᴛᴛᴏɴ.",
                     disable_web_page_preview=True,
