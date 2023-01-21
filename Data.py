@@ -22,7 +22,7 @@ Bʏ - [❥︎❥︎𝐼𝑇𝑆𝑀𝐸ت︎𝑽𝑰𝑽𝑬𝑲 亗](t.me/vivek
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✰  ʙᴏᴛ sᴛᴀᴛᴜs ᴀɴᴅ ᴍᴏʀᴇ ✰", url="https://t.me/wariornetwork")],
+        [InlineKeyboardButton("✰ ᴏᴜʀ ɴᴇᴛᴡᴏʀᴋ ✰", url="https://t.me/wariornetwork")],
         [
             InlineKeyboardButton("✰ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅ ✰", callback_data="help"),
             InlineKeyboardButton("✰ ᴀʙᴏᴜᴛ ᴍᴇ ✰", callback_data="about")
@@ -60,5 +60,5 @@ Bʏ - [❥︎❥︎𝐼𝑇𝑆𝑀𝐸ت︎𝑽𝑰𝑽𝑬𝑲 亗](t.me/vivek
 ᴍʏ ᴏᴡɴᴇʀ : [❥︎❥︎𝐼𝑇𝑆𝑀𝐸ت︎𝑽𝑰𝑽𝑬𝑲 亗](t.me/vivekevil)
 
 
-sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : [ɴᴏᴏʙᴄʀᴇᴀᴛᴏᴛ](t.me/noobcreator)
+sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : [ɴᴏᴏʙ ᴄʀᴇᴀᴛᴏʀ](t.me/noobcreator)
     """
