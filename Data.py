@@ -6,29 +6,29 @@ class Data:
     START = """
 ʜᴇʏ {}
 
-ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ {} [🥀](https://te.legra.ph/file/fe924e2746ad34b7dc76d.jpg)
+ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ {} [🥀](https://te.legra.ph/file/8b94867323e64dd9c8ef8.jpg)
 
 ɪ ᴄᴀɴ ғᴏʀᴄᴇ  ʏᴏᴜʀ ɢʀᴏᴜᴘs ᴜsᴇʀ ᴛᴏ ᴊᴏɪɴ  ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴄʜᴀᴛ.
  ᴛʜᴇ ᴄʜᴀᴛ ᴄᴀɴ ʙᴇ ᴀ ɢʀᴏᴜᴘ ᴏʀ ᴄʜᴀɴɴᴇʟ ɪᴛ ᴄᴀɴ ᴘʀɪᴠᴀᴛᴇ ᴏʀ ᴘᴜʙʟɪᴄ.
  ᴜsᴇ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ʙᴀʙʏ !
 
-Bʏ - @mr_sukkun
+Bʏ - [❥︎❥︎𝐼𝑇𝑆𝑀𝐸ت︎𝑽𝑰𝑽𝑬𝑲 亗](t.me/vivekevil)
     """
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton(text="🏠ʀᴇᴛᴜʀɴ ʜᴏᴍᴇ 🏠", callback_data="home")],
+        [InlineKeyboardButton(text="✰ ʀᴇᴛᴜʀɴ ʜᴏᴍᴇ ✰", callback_data="home")],
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ ʙᴏᴛ sᴛᴀᴛᴜs ᴀɴᴅ ᴍᴏʀᴇ✨", url="https://t.me/mukeshbotzone/24")],
+        [InlineKeyboardButton("✰  ʙᴏᴛ sᴛᴀᴛᴜs ᴀɴᴅ ᴍᴏʀᴇ ✰", url="https://t.me/wariornetwork")],
         [
-            InlineKeyboardButton("⚡ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅ ⚡", callback_data="help"),
-            InlineKeyboardButton("🎪 ᴀʙᴏᴜᴛ ᴍᴇ", callback_data="about")
+            InlineKeyboardButton("✰ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅ ✰", callback_data="help"),
+            InlineKeyboardButton("✰ ᴀʙᴏᴜᴛ ᴍᴇ ✰", callback_data="about")
         ],
-        [InlineKeyboardButton("➕ᴀᴅᴅ ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ ʙᴏᴛ ➕", url="https://t.me/groupcontrollertgbot?startgroup=true")],
-        [InlineKeyboardButton("★ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ★", url="https://t.me/the_support_chat")],
+        [InlineKeyboardButton("✰ ᴀᴅᴅ ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ ʙᴏᴛ ✰", url="https://t.me/ForceSubRBot?startgroup=true")],
+        [InlineKeyboardButton("★ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ★", url="https://t.me/noobcreator")],
       ]
     # Help Message
     HELP = """
