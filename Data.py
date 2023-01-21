@@ -27,7 +27,7 @@ Bʏ - [❥︎❥︎𝐼𝑇𝑆𝑀𝐸ت︎𝑽𝑰𝑽𝑬𝑲 亗](t.me/vivek
             InlineKeyboardButton("✰ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅ ✰", callback_data="help"),
             InlineKeyboardButton("✰ ᴀʙᴏᴜᴛ ᴍᴇ ✰", callback_data="about")
         ],
-        [InlineKeyboardButton("✰ ᴀᴅᴅ ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ ʙᴏᴛ ✰", url="https://t.me/ForceSubRBot?startgroup=true")],
+        [InlineKeyboardButton("✰ ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ✰", url="https://t.me/ForceSubRBot?startgroup=true")],
         [InlineKeyboardButton("★ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ★", url="https://t.me/noobcreator")],
       ]
     # Help Message
