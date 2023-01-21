@@ -57,11 +57,10 @@ Bʏ - [❥︎❥︎𝐼𝑇𝑆𝑀𝐸ت︎𝑽𝑰𝑽𝑬𝑲 亗](t.me/vivek
 ᴀ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏ  ғᴏʀᴄᴇ sᴜʙ 
 
 
-ғʀᴀᴍᴇᴡᴏʀᴋ : [ᴘʏʀᴏɢʀᴀᴍ](docs.pyrogram.org)
+ : [ᴘʏʀᴏɢʀᴀᴍ](docs.pyrogram.org)
 
-ʟᴀɴɢᴜᴀɢᴇ : [ᴘʏᴛʜᴏɴ](www.python.org)
+ʟᴀɴɢᴜᴀɢᴇ
 
-ᴅᴇᴠᴇʟᴏᴘᴇʀ :  @itz_mst_boi
 
 ᴜᴘᴅᴀᴛᴇ   : @mukeshbotzone
     """
