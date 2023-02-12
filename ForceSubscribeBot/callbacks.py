@@ -133,6 +133,6 @@ async def _callbacks(bot: Client, callback_query: CallbackQuery):
                 await callback_query.answer("ɢᴏᴏᴅ ʙᴀʙʏ . Nᴏᴡ ʏᴏᴜ ᴄᴀɴ sᴛᴀʀᴛ ᴄʜᴀᴛᴛɪɴɢ ᴘʀᴏᴘᴇʀʟʏ ɪɴ ɢʀᴏᴜᴘ ɴᴏᴡ. Tʜɴᴋs ғᴏʀ ᴊᴏɪɴɪɴɢ.", show_alert=True)
                 await callback_query.message.delete()
             else:
-                await callback_query.answer(' ɪғ ᴜ ᴄᴀɴ ᴄʜᴀᴛ ᴘʀᴏᴘᴇʀʟʏ ɢɪᴠᴇ ᴛʜᴀɴᴋs ᴛᴏ ᴏᴡɴᴇʀ [ᴘɪʀᴏᴋɪᴅ]', show_alert=True)
+                await callback_query.answer('ғɪʀsᴛ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴀʙᴏᴠᴇ ᴏᴘᴛɪᴏɴ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ᴜɴᴍᴜᴛᴇ ʙᴜᴛᴛᴏᴍ ᴀɴʏ ɪssᴜᴇ ᴄᴏɴᴛᴀᴄᴛ @ᴘɪʀᴏᴋɪᴅ', show_alert=True)
         except UserNotParticipant:
             await callback_query.answer(not_joined, show_alert=True)
